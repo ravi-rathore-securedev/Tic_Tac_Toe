@@ -21,21 +21,16 @@ This is a React Native application designed to implement the classic Tic Tac Toe
 4. Once the app is loaded on your device, you can start playing Tic Tac Toe with a friend.
 
 ## Download
-You can download the APK file for Android devices from [here](#). *(Add your download link here)*
+You can download the APK file for Android devices from [here](https://drive.google.com/file/d/1LNTvOt0QeJoLeIEmD-_1iIBgeqKvB-xv/view?usp=sharing)
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![photo_2024-04-04_14-51-29](https://github.com/ravi-rathore-securedev/Tic_Tac_Toe/assets/115914121/e25ceea1-2600-498a-9199-b6f0d217b71c)
+![photo_2024-04-04_14-51-19](https://github.com/ravi-rathore-securedev/Tic_Tac_Toe/assets/115914121/1d832529-6847-4379-9a6b-20a3ee869e60)
+
+
 
 ## Dependencies
 - React Native
-- Redux (optional, for state management)
-
-## Structure
-- `src/components`: Contains reusable components used throughout the app.
-- `src/screens`: Contains screen components representing different views of the app.
-- `src/utilities`: Contains utility functions for game logic.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
